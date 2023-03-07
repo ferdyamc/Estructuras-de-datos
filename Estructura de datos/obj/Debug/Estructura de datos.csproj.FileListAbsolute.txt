@@ -1,0 +1,29 @@
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe.config
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.pdb
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Inicio.resources
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Properties.Resources.resources
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.exe
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.pdb
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Cola.resources
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Lista.resources
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Menu.resources
+C:\Users\Andres\source\repos\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Pila.resources
+E:\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe.config
+E:\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe
+E:\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.pdb
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.csproj.AssemblyReference.cache
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.csproj.SuggestedBindingRedirects.cache
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Cola.resources
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Inicio.resources
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Lista.resources
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Menu.resources
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Pila.resources
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Properties.Resources.resources
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.csproj.GenerateResource.cache
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.csproj.CoreCompileInputs.cache
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.exe
+E:\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.pdb
